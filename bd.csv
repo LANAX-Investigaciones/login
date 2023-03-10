@@ -1,0 +1,6 @@
+﻿NOMBRE_EQUIPO,FOLIO,DEPARTAMENTO,FECHA_INGRESO,FECHA_MANTENIMIENTO,RESPONSIBLE,FALLA,TIPO_MANTENIMIENTO,ESTADO
+cama ,124a578,general,4/13/2017,5/14/2017,director,no se mueve,correctivo ,funcionando 
+tranfusor,274g69h,general,3/31/2018,5/1/2018,director,no enciende,correctivo ,funcionando 
+maquina anestesia,123g685,general,12/17/2020,2/18/2020,coordinadora,cronometros mal,correctivo ,funcionando 
+ventilador,125g796,general,8/26/2018,10/27/2018,director,no enciende,correctivo ,funcionando 
+desfibrilador ,574n965,general,10/5/2019,12/6/2019,director,malas descargas,correctivo ,funcionando 
